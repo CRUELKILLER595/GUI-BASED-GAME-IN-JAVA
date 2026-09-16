@@ -35,3 +35,5 @@ Installation
 Clone the repository:
 git clone https://github.com/BMC832/GUI-BASED-GAME-IN-JAVA.git
 cd GUI-BASED-GAME-IN-JAVA
+CREATED BY - CRUELKILLER 595
+Cruelkiller Forevr!!!
